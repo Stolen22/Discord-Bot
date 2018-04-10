@@ -1,0 +1,14 @@
+{
+    "description": "Loop you're favourite music, all day, everyday. Enjoy",
+    "icon": null,
+    "id": "433208063609143307",
+    "name": "All_Day_Every_Day",
+    "bot_public": true,
+    "bot_require_code_grant": false,
+    "owner": {
+        "username": "James_",
+        "discriminator": "1708",
+        "id": "433208063609143307",
+        "avatar": null
+    }
+}
